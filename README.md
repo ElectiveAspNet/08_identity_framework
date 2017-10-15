@@ -5,7 +5,7 @@ Agenda dag 8 d. 16-10-2017
 
 
 #### TODO:
-* [Asyncronous programming](https://www.exceptionnotfound.net/using-async-and-await-in-asp-net-what-do-these-keywords-mean/)
+<!-- * [Asyncronous programming](https://www.exceptionnotfound.net/using-async-and-await-in-asp-net-what-do-these-keywords-mean/) -->
 * Strongly typed views
 * Viewmodels vs entity models
 * Views
